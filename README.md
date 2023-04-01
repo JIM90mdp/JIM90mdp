@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan I. Mascarenhas from Argentina</h1>
 <h3 align="center">
-Music Jazz Professor and Front End Web Developer with extensive teamwork experience.
+I am defined by my passion for what I do, perseverance, and commitment to continue learning, enjoyment of teamwork, and a collaborative environment.
   
-My purpose is to enjoy and value the process while finding motivation through every accomplished goal.
+My purpose is to appreciate and value the process while finding motivation through every
   
-I’m defined by the passion for what I do, the perseverance and dedication to overcome difficult situations, the commitment to continue learning, the enjoyment of team working and the drive for constant self-improvement.
+I left my comfort zone in search of new challenges to work as a web developer, allowing me to contribute my experience and continue learning.
 
 </h3>
 
