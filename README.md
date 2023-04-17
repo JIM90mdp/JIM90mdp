@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan I. Mascarenhas from Argentina</h1>
 <h3 align="center">
-I am defined by my passion for what I do, perseverance, and commitment to continue learning, enjoyment of teamwork, and a collaborative environment.
   
-My purpose is to appreciate and value the process while finding motivation through every
+Design and development of applications specializing in JavaScript, React, Next, Angular, Tailwind, and MUI. Proficient in TypeScript and Bootstrap.
+
+I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. 
   
-I left my comfort zone in search of new challenges to work as a web developer, allowing me to contribute my experience and continue learning.
+This allows me to develop communication, negotiation, and adaptability skills.
 
 </h3>
 
