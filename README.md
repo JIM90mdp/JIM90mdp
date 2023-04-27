@@ -22,3 +22,4 @@ This allows me to develop communication, negotiation, and adaptability skills.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jim90mdp&" alt="jim90mdp" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
