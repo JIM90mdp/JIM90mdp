@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan I. Mascarenhas from Argentina</h1>
 <h3 align="center">
   
-Design and development of applications specializing in JavaScript, React, Next, Angular, Vue, Tailwind, and MUI. Proficient in TypeScript and Bootstrap.
+Design and development of applications specializing in JavaScript, React, Next, Tailwind, and MUI. Proficient in TypeScript, Angular, Vue, and Bootstrap.
 
 I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. 
   
