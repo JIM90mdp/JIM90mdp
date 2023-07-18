@@ -1,5 +1,5 @@
-# Hi 👋, I'm Juan I. Mascarenhas from Argentina
-
+# Hi 👋, welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Juan+Ignacio+Mascarenhas+;Front-End+Web+Developer)](https://git.io/typing-svg)
 ### Design and development of applications specializing in JavaScript, React, Next, Tailwind, and MUI. Proficient in TypeScript, Angular, Vue, and Bootstrap.
 
 I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. This allows me to develop communication, negotiation, and adaptability skills.
