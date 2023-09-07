@@ -19,4 +19,4 @@ I focus on developing modular and scalable designs and applications that meet th
 
 [![JIM GitHub stats](https://github-readme-stats.vercel.app/api?username=JIM90mdp)](https://github.com/jim90mdp/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every+second+count+;1%+every+single+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every+second+count+;1%+better+each+day)](https://git.io/typing-svg)
