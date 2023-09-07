@@ -1,6 +1,6 @@
 # Hi 👋, welcome to my profile!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JIM-Dev+Juan+Ignacio+Mascarenhas+;Front-End+Web+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every+second+count+;1%+every+single+day)](https://git.io/typing-svg)
+
 ### Design and development of applications specializing in JavaScript, React, Next, Tailwind, and MUI. Proficient in TypeScript, Angular, Vue, and Bootstrap.
 
 I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. This allows me to develop communication, negotiation, and adaptability skills.
@@ -18,3 +18,5 @@ I focus on developing modular and scalable designs and applications that meet th
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jim90mdp&" alt="jim90mdp" /></p>
 
 [![JIM GitHub stats](https://github-readme-stats.vercel.app/api?username=JIM90mdp)](https://github.com/jim90mdp/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every+second+count+;1%+every+single+day)](https://git.io/typing-svg)
