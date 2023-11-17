@@ -5,7 +5,7 @@
 
 I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. This allows me to develop communication, negotiation, and adaptability skills.
 
-## Tech Skills:
+## Tech Skills
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
@@ -18,7 +18,7 @@ I focus on developing modular and scalable designs and applications that meet th
   </a>
 </p>
 
-## Connect with me:
+## Connect with me
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="24" height="24">](https://linkedin.com/in/mascarenhas-developer/)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24">](https://instagram.com/nachomascarenhas/)
 
