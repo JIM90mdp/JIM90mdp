@@ -5,12 +5,7 @@
 
 I focus on developing modular and scalable designs and applications that meet the client's needs using agile methodologies to reach the final product. This allows me to develop communication, negotiation, and adaptability skills.
 
-## Connect with me:
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="24" height="24">](https://linkedin.com/in/mascarenhas-developer/)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24">](https://instagram.com/nachomascarenhas/)
-
-
-## Tech Skills and Tools:
+## Tech Skills:
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
@@ -22,6 +17,13 @@ I focus on developing modular and scalable designs and applications that meet th
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
+## Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="24" height="24">](https://linkedin.com/in/mascarenhas-developer/)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24">](https://instagram.com/nachomascarenhas/)
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jim90mdp&show_icons=true&locale=en&layout=compact" alt="jim90mdp" /></p>
 
